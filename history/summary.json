@@ -22,19 +22,19 @@
     "url": "https://quieroentrar.com.ar/",
     "icon": "https://favicons.githubusercontent.com/quieroentrar.com.ar",
     "slug": "quiero-entrar",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 258,
-    "timeDay": 231,
-    "timeWeek": 210,
-    "timeMonth": 258,
-    "timeYear": 258,
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "98.19%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
+    "time": 280,
+    "timeDay": 414,
+    "timeWeek": 258,
+    "timeMonth": 280,
+    "timeYear": 280,
     "dailyMinutesDown": {
-      "2022-02-24": 0
+      "2022-02-24": 26
     }
   }
 ]
