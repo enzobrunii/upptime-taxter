@@ -4,7 +4,7 @@
     "url": "https://degustando.app/",
     "icon": "https://favicons.githubusercontent.com/degustando.app",
     "slug": "degustando",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -13,9 +13,11 @@
     "time": 697,
     "timeDay": 513,
     "timeWeek": 670,
-    "timeMonth": 697,
+    "timeMonth": 691,
     "timeYear": 697,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-11": 0
+    }
   },
   {
     "name": "Quiero Entrar",
@@ -31,7 +33,7 @@
     "time": 249,
     "timeDay": 69,
     "timeWeek": 209,
-    "timeMonth": 249,
+    "timeMonth": 243,
     "timeYear": 249,
     "dailyMinutesDown": {
       "2022-02-24": 26
