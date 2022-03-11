@@ -4,19 +4,19 @@
     "url": "https://degustando.app/",
     "icon": "https://favicons.githubusercontent.com/degustando.app",
     "slug": "degustando",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 697,
-    "timeDay": 513,
-    "timeWeek": 670,
-    "timeMonth": 691,
-    "timeYear": 697,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "97.48%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 699,
+    "timeDay": 633,
+    "timeWeek": 680,
+    "timeMonth": 693,
+    "timeYear": 699,
     "dailyMinutesDown": {
-      "2022-03-11": 0
+      "2022-03-11": 36
     }
   },
   {
