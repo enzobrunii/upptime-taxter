@@ -27,7 +27,7 @@
     "url": "https://quieroentrar.com.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/quieroentrar.com.ar.ico",
     "slug": "quiero-entrar",
-    "status": "up",
+    "status": "down",
     "uptime": "99.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.41%",
@@ -39,6 +39,7 @@
     "timeMonth": 240,
     "timeYear": 253,
     "dailyMinutesDown": {
+      "2022-10-29": 0,
       "2022-10-25": 361,
       "2022-09-12": 27,
       "2022-07-27": 307,
