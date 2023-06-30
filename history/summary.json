@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.70%",
     "time": 647,
-    "timeDay": 829,
-    "timeWeek": 642,
-    "timeMonth": 648,
+    "timeDay": 821,
+    "timeWeek": 687,
+    "timeMonth": 658,
     "timeYear": 641,
     "dailyMinutesDown": {
       "2023-02-23": 97,
@@ -29,15 +29,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/quieroentrar.com.ar.ico",
     "slug": "quiero-entrar",
     "status": "up",
-    "uptime": "99.22%",
+    "uptime": "99.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.07%",
-    "time": 280,
-    "timeDay": 415,
-    "timeWeek": 247,
-    "timeMonth": 249,
+    "time": 281,
+    "timeDay": 408,
+    "timeWeek": 283,
+    "timeMonth": 261,
     "timeYear": 291,
     "dailyMinutesDown": {
       "2023-05-23": 67,
@@ -59,8 +59,7 @@
       "2022-09-12": 27,
       "2022-07-27": 307,
       "2022-07-12": 29,
-      "2022-07-01": 611,
-      "2022-06-30": 130
+      "2022-07-01": 611
     }
   }
 ]
