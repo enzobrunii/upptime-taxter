@@ -4,7 +4,7 @@
     "url": "https://degustando.app/",
     "icon": "https://icons.duckduckgo.com/ip3/degustando.app.ico",
     "slug": "degustando",
-    "status": "up",
+    "status": "down",
     "uptime": "87.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 196,
     "timeYear": 563,
     "dailyMinutesDown": {
+      "2024-07-27": 0,
       "2024-06-19": 410,
       "2024-06-18": 1440,
       "2024-06-17": 1440,
